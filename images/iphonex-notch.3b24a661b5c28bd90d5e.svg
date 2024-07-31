@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220px" height="33px" viewBox="0 0 220 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>iphonex-notch</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iphonex-notch">
+            <path d="M0.0001,3 C2.9751,3 5.4241,5.339 5.5611,8.311 C6.3161,24.699 14.7221,32.894 30.7791,32.894 L189.22,32.894 C205.277,32.894 213.684,24.699 214.439,8.311 C214.576,5.339 217.025,3 220,3 L220,0 L0.0001,0 L0.0001,3 Z" id="notch" fill="#FFFFFF"></path>
+            <path d="M9.375e-05,1 C4.04386699,1 7.37276448,4.17928412 7.5589809,8.21895704 C8.26521783,23.5485078 15.8002972,30.894 30.7791,30.894 L189.22,30.894 C204.19908,30.894 211.734895,23.5482271 212.441122,8.21890399 C212.627336,4.17928412 215.956233,1 220,1 L220,3 C217.025,3 214.576,5.339 214.439,8.311 C213.684,24.699 205.277,32.894 189.22,32.894 L30.7791,32.894 C14.7221,32.894 6.3161,24.699 5.5611,8.311 C5.4241,5.339 2.9751,3 0.0001,3 L9.375e-05,1 Z" id="Path" fill-opacity="0.1" fill="#000000" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
